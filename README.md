@@ -1,9 +1,9 @@
 # Self-Portfolio
 A really first web design by me just about myself
 
+**Languages**: HTML, CSS, Boostrap
 
-
-Access this link to experience more: file:///C:/Users/ngphd/OneDrive/Desktop/Other%20Semester/1st%20Semester/WEBDESIGN/Portfolio%204/HOBBY.html
+**Access this link to experience more**: file:///C:/Users/ngphd/OneDrive/Desktop/Other%20Semester/1st%20Semester/WEBDESIGN/Portfolio%204/HOBBY.html
 
 <img width="1433" height="857" alt="image" src="https://github.com/user-attachments/assets/cc6afa9a-1a20-4cc3-b022-41a486a08ce7" />
 <img width="1437" height="875" alt="image" src="https://github.com/user-attachments/assets/d1714574-9491-47ca-89af-8286aa2bcbf4" />
