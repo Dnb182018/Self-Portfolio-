@@ -1,5 +1,8 @@
 # Self-Portfolio-
 A really first web design by me just about myself
+
+
+
 Access this link to experience more: file:///C:/Users/ngphd/OneDrive/Desktop/Other%20Semester/1st%20Semester/WEBDESIGN/Portfolio%204/HOBBY.html
 
 <img width="1433" height="857" alt="image" src="https://github.com/user-attachments/assets/cc6afa9a-1a20-4cc3-b022-41a486a08ce7" />
